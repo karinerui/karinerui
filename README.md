@@ -22,11 +22,11 @@
 
 ### 📫 How to reach me :link:
 
-:e-mail: karinerui@gmail.com
+![](gmail.PNG) karinerui@gmail.com
 
 ![](linkedin.PNG) [Linkedin](https://www.linkedin.com/in/karinerui/)
 
-:page_facing_up: [Lattes](http://lattes.cnpq.br/8025185963299489)
+![](lattes.PNG) [Lattes](http://lattes.cnpq.br/8025185963299489)
 
 ### My projects
 
