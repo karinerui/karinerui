@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi, I'am Karine 👋
 
-<!--
-**karinerui/karinerui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I'm currently learning Data Science
 
-Here are some ideas to get you started:
+👩‍🏫 Professor of Mathematics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍🎓 Degree in Mathematics - UFPel. 
+
+🎓 Master in Mathematical Modeling - UFPel.
+
+👩‍🔬 PhD in Mechanical Engineering - UFRGS.
+
+### My Skills 👩‍💻✍
+
+° 🧮 Power BI.
+
+° :computer: Fortran.
+
+° 📈 Excel
+
+° 📊 Data Visualization.
+
+### 📫 How to reach me :link:
+
+:e-mail: karinerui@gmail.com
+
+![](imagens/linkedin.png) [Linkedin](https://www.linkedin.com/in/karinerui/)
+
+:page_facing_up: [Lattes](http://lattes.cnpq.br/8025185963299489)
+
+### My projects
+
+Data Visualization
