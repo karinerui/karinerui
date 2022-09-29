@@ -24,7 +24,7 @@
 
 :e-mail: karinerui@gmail.com
 
-![](imagens/linkedin.png) [Linkedin](https://www.linkedin.com/in/karinerui/)
+![](linkedin.PNG) [Linkedin](https://www.linkedin.com/in/karinerui/)
 
 :page_facing_up: [Lattes](http://lattes.cnpq.br/8025185963299489)
 
