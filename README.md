@@ -1,6 +1,6 @@
 ### Hi, I'am Karine 👋
 
-👩‍💻 I'm currently learning Data Science
+👩‍💻 I'm currently learning Data Science.
 
 👩‍🏫 Professor of Mathematics.
 
