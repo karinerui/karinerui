@@ -20,6 +20,8 @@
 
 📜 SQL
 
+🐍 Python
+
 📊 Data Visualization
 
 🎬 Storytelling with Data
