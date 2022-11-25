@@ -8,7 +8,7 @@
 
 🎓 Master in Mathematical Modeling - UFPel
 
-👩‍🔬 PhD in Engineering - UFRGS
+👩‍🔬 PhD in Mechanical Engineering - UFRGS
 
 ## My Skills 👩‍💻✍
 
