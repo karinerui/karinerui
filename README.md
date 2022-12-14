@@ -41,5 +41,7 @@
  * [Dashboard Supermarket Sales](https://github.com/karinerui/Dashboard-Analise-de-Vendas)
  
  * [Dashboard E-commerce](https://github.com/karinerui/Dashboard_E-commerce)
+ 
+  * [Dashboard RH](https://github.com/karinerui/Dashboard_RH)
 
 
