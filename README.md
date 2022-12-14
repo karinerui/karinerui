@@ -42,6 +42,6 @@
  
  * [Dashboard E-commerce](https://github.com/karinerui/Dashboard_E-commerce)
  
-  * [Dashboard RH](https://github.com/karinerui/Dashboard_RH)
+  * [Dashboard Human Resources](https://github.com/karinerui/Dashboard_RH)
 
 
