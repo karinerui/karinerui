@@ -48,6 +48,6 @@
  
  * [Ferramenta de Controle de Investimentos](https://github.com/karinerui/Dashboard-Analise-de-Vendas)
  
- * [Organizador de Declaração de Imposto de Renda](https://github.com/karinerui/Dashboard_E-commerce)
+ * [Organizador de Declaração de Imposto de Renda](https://github.com/karinerui/Organizador-Declaracao-IR)
 
 
