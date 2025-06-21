@@ -50,4 +50,6 @@
  
  * [Organizador de Declaração de Imposto de Renda](https://github.com/karinerui/Organizador-Declaracao-IR)
 
+ * [Dashboard de Vendas de Xbox](https://github.com/karinerui/Dashboard-Vendas-Xbox)
+
 
